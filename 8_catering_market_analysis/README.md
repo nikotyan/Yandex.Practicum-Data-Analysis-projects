@@ -29,4 +29,4 @@
 
 ## Используемые библиотеки
 
-*Pandas*, *Plotly*, *Seaborn*, *requests*
+*Pandas*, *Numpy*, *Seaborn*, *Matplotlib*, *requests*
